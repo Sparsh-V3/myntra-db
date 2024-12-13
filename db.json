@@ -1,60 +1,60 @@
 [
     {
-        "image": "assets/ethnic.webp",
+        "image": "assets/shopByImages/ethnic.webp",
         "title": "Ethnic Wear",
         "discount": "50-80% OFF",
         "buy": "SHOP NOW"
     },
     {
-        "image": "assets/casual.webp",
+        "image": "assets/shopByImages/casual.webp",
         "title": "Casual Wear",
         "discount": "40-80% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/mens-wear.jpg",
+        "image": "assets/shopByImages/mens-wear.jpg",
         "title": "Men's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/women-wear.jpg",
+        "image": "assets/shopByImages/women-wear.jpg",
         "title": "Women's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/western.avif",
+        "image": "assets/shopByImages/western.avif",
         "title": "Western Wear",
         "discount": "40-80% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/lounge-wear.jpg",
+        "image": "assets/shopByImages/lounge-wear.jpg",
         "title": "Loungewear",
         "discount": "30-60% OFF",
         "buy": "SHOP NOW"
     },
     {
-        "image": "assets/inner-wear.webp",
+        "image": "assets/shopByImages/inner-wear.webp",
         "title": "Innerwear",
         "discount": "70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/lingerie.jpg",
+        "image": "assets/shopByImages/lingerie.jpg",
         "title": "Lingerie",
         "discount": "70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/watches.avif",
+        "image": "assets/shopByImages/watches.avif",
         "title": "Watches",
         "discount": "80% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/sportswear.jpeg",
+        "image": "assets/shopByImages/sportswear.jpeg",
         "title": "Sportswear",
         "discount": "30-80% OFF",
         "buy": "Shop Now"
