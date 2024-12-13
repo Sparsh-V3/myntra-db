@@ -12,44 +12,49 @@
         "buy": "Shop Now"
     },
     {
-        "image": "assets/mens-wear.webp",
+        "image": "assets/mens-wear.jpg",
         "title": "Men's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/women-wear.webp",
+        "image": "assets/women-wear.jpg",
         "title": "Women's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
-        "image": "assets/.webp",
+        "image": "assets/western.avif",
         "title": "Western Wear",
         "discount": "40-80% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/lounge-wear.jpg",
         "title": "Loungewear",
         "discount": "30-60% OFF",
         "buy": "SHOP NOW"
     },
     {
+        "image": "assets/inner-wear.webp",
         "title": "Innerwear",
         "discount": "70% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/lingerie.jpg",
         "title": "Lingerie",
         "discount": "70% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/watches.avif",
         "title": "Watches",
         "discount": "80% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/sportswear.jpeg",
         "title": "Sportswear",
         "discount": "30-80% OFF",
         "buy": "Shop Now"
