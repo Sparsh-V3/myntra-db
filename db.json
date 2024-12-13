@@ -12,16 +12,19 @@
         "buy": "Shop Now"
     },
     {
+        "image": "assets/mens-wear.webp",
         "title": "Men's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/women-wear.webp",
         "title": "Women's ActiveWear",
         "discount": "30-70% OFF",
         "buy": "Shop Now"
     },
     {
+        "image": "assets/.webp",
         "title": "Western Wear",
         "discount": "40-80% OFF",
         "buy": "Shop Now"
