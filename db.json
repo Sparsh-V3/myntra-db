@@ -1,12 +1,12 @@
 [
     {
-        "image": "https://cdn.pixabay.com/photo/2022/12/04/07/03/woman-7633843_1280.jpg",
+        "image": "assets/ethnic.webp",
         "title": "Ethnic Wear",
         "discount": "50-80% OFF",
         "buy": "SHOP NOW"
     },
     {
-        "image": "https://pixabay.com/photos/woman-face-eyes-young-casual-8393821/",
+        "image": "assets/casual.webp",
         "title": "Casual Wear",
         "discount": "40-80% OFF",
         "buy": "Shop Now"
